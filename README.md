@@ -55,6 +55,6 @@ For example. I want to use `bounceInUp` effect.
 <p class="text-center text-danger scroll-animate bounceInUp"></p>
 ```
 # Version
-1.0.0
+1.0.1
 # Contributing
 Code your repository by using style guide from [airbnb/javascript](https://github.com/airbnb/javascript), feel free to pull request anytime. I will do the action ASAP ;D
