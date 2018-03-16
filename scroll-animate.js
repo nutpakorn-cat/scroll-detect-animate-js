@@ -31,7 +31,7 @@ function scrollDisable() {
  * detect user scrolling
  */
 function scrollCheck() {
-    if( elementIndex < scrollList.length-1 && isEnable ) {
+    if( elementIndex <= scrollList.length-1 && isEnable ) {
         if( $( window ).scrollTop() >= scrollList[elementIndex][1] ) {
             // Add class
             $( scrollList[elementIndex][0] ).prop( 'style', null );
@@ -40,7 +40,9 @@ function scrollCheck() {
             // iterate elementIndex
             elementIndex++;
         }
+        console.log(elementIndex);
     }
+   
 }
 
 /**
