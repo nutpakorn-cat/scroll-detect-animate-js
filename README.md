@@ -57,4 +57,4 @@ For example. I want to use `bounceInUp` effect.
 # Version
 1.0.0
 # Contributing
-Code your repository by using style guide from [airbnb/javascript](https://github.com/airbnb/javascript)
+Code your repository by using style guide from [airbnb/javascript](https://github.com/airbnb/javascript), feel free to pull request anytime. I will do the action ASAP ;D
