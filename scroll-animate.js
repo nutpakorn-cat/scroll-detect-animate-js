@@ -1,8 +1,8 @@
-/*! scroll-animate-js v1.0.0 | (c) nutterrocker | MIT License */
+/*! scroll-animate-js v1.0.1 | (c) nutterrocker | MIT License */
 /**
  * Configuration Variable
  */
-let isEnable = false;
+let isEnable = true;
 
 /**
  * scrollPositionList 2d ArrayList
@@ -19,7 +19,7 @@ let elementIndex = 0;
 /**
  * Control function
  */
-function scrollInit() {
+function scrollEnable() {
     isEnable = true;
 }
 
