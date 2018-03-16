@@ -40,9 +40,7 @@ function scrollCheck() {
             // iterate elementIndex
             elementIndex++;
         }
-        console.log(elementIndex);
     }
-   
 }
 
 /**
