@@ -1,4 +1,4 @@
-![scroll-animate.js](https://image.ibb.co/k9dR4c/header.png)
+![scroll-animate.js](https://image.ibb.co/mwo4qH/header2.png)
 # Scroll-animate.js ![License](https://img.shields.io/github/license/nutterrocker/scroll-animate-js.svg)
 A lightweight scroll animation javascript compatible with [daneden/animate.css](https://daneden.github.io/animate.css/)
 ### Easiest js to use
