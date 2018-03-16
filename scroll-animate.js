@@ -1,3 +1,4 @@
+/*! scroll-animate-js v1.0.0 | (c) nutterrocker | MIT License */
 /**
  * Configuration Variable
  */
