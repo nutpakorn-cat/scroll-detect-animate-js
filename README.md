@@ -49,7 +49,7 @@ npm install
 For example. I want to use `bounceInUp` effect.
 ```html
 // Wrong! you have to add an animation class next to scroll-animate class.
-<p class="ิbounceInUp text-center text-danger scroll-animate"></p>
+<p class="bounceInUp text-center text-danger scroll-animate"></p>
 
 // Correct
 <p class="text-center text-danger scroll-animate bounceInUp"></p>
