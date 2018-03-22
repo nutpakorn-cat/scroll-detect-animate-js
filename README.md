@@ -2,7 +2,7 @@
 # Scroll-animate.js ![License](https://img.shields.io/github/license/nutterrocker/scroll-animate-js.svg)
 A lightweight scroll animation javascript compatible with [daneden/animate.css](https://daneden.github.io/animate.css/)
 ### Easiest js to use
-Chill out with almost hundred animation from [daneden/animate.css](https://daneden.github.io/animate.css/) by just adding `scroll-animate` css class and adding a following effect class from [daneden/animate.css](https://daneden.github.io/animate.css/) to the last css class of your html element.<br>
+Chill out with almost hundred animations from [daneden/animate.css](https://daneden.github.io/animate.css/) by just adding `scroll-animate` css class and adding a following effect class from [daneden/animate.css](https://daneden.github.io/animate.css/) to the last css class of your html element.<br>
 - Example. I want to use `fadeInUp` effect.
 ```html
 <jumbotron class="....bla bla... scroll-animate fadeInUp">
