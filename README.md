@@ -54,6 +54,8 @@ For example. I want to use `bounceInUp` effect.
 // Correct
 <p class="text-center text-danger scroll-animate bounceInUp"></p>
 ```
+# Authors
+- Nutpakorn-Cat - Initial work
 # Version
 1.0.1
 # Contributing
