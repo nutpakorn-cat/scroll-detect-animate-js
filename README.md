@@ -25,9 +25,6 @@ git clone git://github.com/nutterrocker/scroll-animate-js
 ```
 npm install
 ```
-3. Copy `animate.min.css` from `/scroll-animate-js/node_modules/animate.min.css` to your css folder.
-4. Copy `scroll-animate.min.js` inside `/scroll-animate-js/` folder to your js folder.
-5. ( Optional ) Remove `/scroll-animate-js/` folder.
 ### Usage
 - Import animate.min.css and scroll-animate.min.js to your html file.
 ```html
